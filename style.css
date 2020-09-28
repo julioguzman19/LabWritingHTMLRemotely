@@ -4,10 +4,11 @@ body{
     width:800px;
     border: royalblue;
 }
+
 h1{
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
-    color: pink;
+    color: rgb(241, 87, 112);
 }
 .center {
     margin: auto;
